@@ -1,0 +1,71 @@
+{
+  "status": "ok",
+  "totalResults": 5,
+  "articles": [
+    {
+      "source": {
+        "id": "nbc-news",
+        "name": "NBC News"
+      },
+      "author": "Freddie Clayton",
+      "title": "Camp Mystic, a century-old girls Christian summer camp deluged by Texas flood - NBC News",
+      "description": "Camp Mystic, a 99-year-old Christian summer camp for girls in Texas Hill Country, was hosting 750 children this week when catastrophic flooding struck the Guadalupe River early Friday, leaving at least 20 children missing",
+      "url": "https://www.nbcnews.com/news/us-news/camp-mystic-girls-christian-summer-camp-deluged-flood-texas-rcna217015",
+      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2025-07/250705-texas-flood-aa-972b0a.jpg",
+      "publishedAt": "2025-07-05T11:39:19Z",
+      "content": "Camp Mystic, a 99-year-old Christian summer camp for girls in Texas Hill Country, was hosting 750 children this week when catastrophic flooding struck the Guadalupe River early Friday, leaving at lea… [+2307 chars]"
+    },
+    {
+      "source": {
+        "id": "associated-press",
+        "name": "Associated Press"
+      },
+      "author": null,
+      "title": "Liverpool players join family of Diogo Jota and his brother for funeral held in Portugal - AP News",
+      "description": "Players from Liverpool and Portugal’s national team joined family and friends for the funeral of their teammate Diogo Jota and his brother. The service was held in the Portuguese town of Gondomar two days after they died in a car crash in Spain. Liverpool cap…",
+      "url": "https://apnews.com/article/diogo-jota-funeral-portugal-liverpool-7867d71255943696db9aa2d9ffdee9f6",
+      "urlToImage": "https://dims.apnews.com/dims4/default/94d7b30/2147483647/strip/true/crop/6000x3375+0+312/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F43%2F38%2Faaa2bd766ce25ad18e3d4b39555a%2F3d784c1a9a0e4edfa91f4f33901997d9",
+      "publishedAt": "2025-07-05T08:51:00Z",
+      "content": "GONDOMAR, Portugal (AP) Players from Liverpool and Portugals national team joined family and friends for the funeral of their teammate Diogo Jota and his brother on Saturday, two days after the sibli… [+3202 chars]"
+    },
+    {
+      "source": {
+        "id": "associated-press",
+        "name": "Associated Press"
+      },
+      "author": null,
+      "title": "World’s largest Legoland opens to tourists in Shanghai - AP News",
+      "description": "A massive Lego man named Dada has welcomed visitors to the new Legoland resort in Shanghai. The resort, which opened Saturday, is the first in China and the largest Legoland in the world. Built with 85 million Lego bricks, it was developed by Merlin Entertain…",
+      "url": "https://apnews.com/article/shanghai-legoland-resort-opening-china-2fdc5631835c233af9fe4207874c361d",
+      "urlToImage": "https://dims.apnews.com/dims4/default/621b231/2147483647/strip/true/crop/8640x4860+0+450/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fe8%2Fe8%2F201ff48efc193f5290456f32593b%2F15166ba067564d48ad8e33443282b86e",
+      "publishedAt": "2025-07-05T04:18:00Z",
+      "content": "SHANGHAI (AP) Visitors were welcomed by a giant Lego man over 26 meters (85 feet) tall named Dada as they arrived at the new Legoland resort in Shanghai. \r\nThe Legoland resort, which opened Saturday,… [+1022 chars]"
+    },
+    {
+      "source": {
+        "id": "associated-press",
+        "name": "Associated Press"
+      },
+      "author": null,
+      "title": "Human remains located after California fireworks warehouse explosion - AP News",
+      "description": "Investigators have located human remains following a large explosion at a Northern California fireworks warehouse. Yolo County confirmed its Coroner’s Division was allowed access to the site of the fire incident, and the Coroner’s Office been in contact with …",
+      "url": "https://apnews.com/article/california-fireworks-warehouse-explosion-a74679e54fb1492cab04528564ca2e9d",
+      "urlToImage": "https://dims.apnews.com/dims4/default/352469d/2147483647/strip/true/crop/1966x1106+0+103/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F7f%2F9f%2Fa303eb17577d5834b826c70b9a1a%2F3f5005e44d444fa3aab309124730dedb",
+      "publishedAt": "2025-07-05T01:21:00Z",
+      "content": "Investigators have located human remains following an explosion at a Northern California fireworks warehouse, Yolo County said in a statement Friday. \r\nSeven were missing after the Tuesday fireworks … [+1775 chars]"
+    },
+    {
+      "source": {
+        "id": "fox-news",
+        "name": "Fox News"
+      },
+      "author": "Sophia Compton",
+      "title": "Neanderthals extracted animal fat in advanced food prep 'fat factories' 125,000 years ago: report - Fox News",
+      "description": "Archaeological findings reveal Neanderthals operated a 'fat factory' 125,000 years ago in what is now Germany, smashing bones to extract essential fat during seasons when carbohydrates were scarce.",
+      "url": "https://www.foxnews.com/lifestyle/neanderthals-extracted-animal-fat-advanced-food-prep-process-125000-years-ago-report",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2025/07/neanderthal-deer.jpg",
+      "publishedAt": "2025-07-05T01:06:00Z",
+      "content": "Neanderthals living 125,000 years ago in what is now modern-day Germany may have extracted and eaten fat from animal bones through an organized food preparation process that scientists describe as a … [+3086 chars]"
+    }
+  ]
+}
