@@ -71,7 +71,7 @@ export default class News_Items extends Component {
     {
       "source": {
         "id": null,
-        "name": "East Idaho News"
+        "name": "East Idaho News one also" 
       },
       "author": "EastIdahoNews.com Staff",
       "title": "125,000-year-old ‘fat factory’ run by Neanderthals discovered in Germany - East Idaho News",
